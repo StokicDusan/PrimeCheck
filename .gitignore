@@ -1,0 +1,10 @@
+config/
+.env
+*/Thumbs.db
+/.vscode/
+.gitattributes
+*/__pycache__/
+__pycache__/
+*.pyc
+READMEtemplate.md
+
