@@ -23,14 +23,14 @@ This script require the math, doctest and sys package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/PrimeCheck.git
-$> cd PrimeCheck/
+```bash
+> git clone https://github.com/StokicDusan/PrimeCheck.git
+> cd PrimeCheck/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
-```zsh
-$> python primeCheck.py argv1
+```bash
+> python primeCheck.py argv1
 ```
 * argv1:  
 Any positive integer  
