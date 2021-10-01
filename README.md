@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Prime Check
+# Welcome to PrimeCheck!!!
 
 A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
 
