@@ -39,9 +39,9 @@ Any positive integer
 
 Invoking the script with no arguments will run testmod().
 
-## Example
+## Examples
 
-The following code block shows examles of calling the primeCheck script from terminal 
+The following code block shows examles of calling the primeCheck script from terminal.
 
 ```bash
 $ python3 primeCheck.py 1
