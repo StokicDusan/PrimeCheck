@@ -30,7 +30,7 @@ This script require the math, doctest and sys package.
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
 ```bash
-> python primeCheck.py argv1
+> python3 primeCheck.py argv1
 ```
 * argv1:  
 Any positive integer  
@@ -38,6 +38,25 @@ Any positive integer
 :warning: *Note:* Other input will result in an error
 
 Invoking the script with no arguments will run testmod().
+
+## Example
+
+```bash
+$ python3 primeCheck.py 1
+1 = 
+
+$ python3 primeCheck.py 7
+True
+
+$ python3 primeCheck.py 496
+496 = 2^4 * 31
+
+$ python3 primeCheck.py 3003
+30030 = 3 * 7 * 11 * 13
+
+$ python3 primeCheck.py 304517
+True
+```
 
 ## Provide Feedback 👍
 
