@@ -54,7 +54,7 @@ $ python3 primeCheck.py 496
 496 = 2^4 * 31
 
 $ python3 primeCheck.py 3003
-30030 = 3 * 7 * 11 * 13
+3003 = 3 * 7 * 11 * 13
 
 $ python3 primeCheck.py 304517
 True
