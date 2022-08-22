@@ -1,6 +1,6 @@
-from math import sqrt
 from doctest import testmod
 import sys
+import decimal
 
 
 def factors(A: list, x: int) -> None:
@@ -45,7 +45,7 @@ def is_prime(pp: int) -> bool:
     elif pp < 2 or not pp % 2:
         return False
 
-    odd_n = range(3, int(sqrt(pp) + 1), 2)
+    odd_n = range(3, int(decimal.Decimal(pp).sqrt() + 1), 2)
     return not any(not pp % i for i in odd_n)
 
 
